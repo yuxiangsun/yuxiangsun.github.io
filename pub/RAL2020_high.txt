@@ -1,0 +1,11 @@
+@ARTICLE{cai2020high, 
+author={P. {Cai} and X. {Mei} and L. {Tai} and Y. {Sun} and M. {Liu}}, 
+journal={{IEEE Robotics and Automation Letters}}, 
+title={{High-Speed Autonomous Drifting With Deep Reinforcement Learning}}, 
+year={2020}, 
+volume={5}, 
+number={2}, 
+pages={1247-1254}, 
+doi={10.1109/LRA.2020.2967299}, 
+ISSN={2377-3774}, 
+month={April},}
