@@ -1,0 +1,12 @@
+@INPROCEEDINGS{sun2019accurate,
+author={Y. {Sun} and L. {Wang} and Y. {Chen} and M. {Liu}},
+booktitle={{2019 IEEE International Conference on Robotics and Biomimetics (ROBIO)}},
+title={{Accurate Lane Detection with Atrous Convolution and Spatial Pyramid Pooling for Autonomous Driving}},
+year={2019},
+volume={},
+number={},
+pages={642-647},
+keywords={},
+doi={10.1109/ROBIO49542.2019.8961705},
+ISSN={null},
+month={Dec},}

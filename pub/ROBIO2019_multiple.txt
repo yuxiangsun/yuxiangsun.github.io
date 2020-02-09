@@ -1,0 +1,12 @@
+@INPROCEEDINGS{cheng2019multiple,
+author={H. {Chen} and C. {Xue} and S. {Liu} and Y. {Sun} and Y. {Chen}},
+booktitle={{2019 IEEE International Conference on Robotics and Biomimetics (ROBIO)}},
+title={{Multiple-object Tracking based on Monocular Camera and 3-D Lidar Fusion for Autonomous Vehicles}},
+year={2019},
+volume={},
+number={},
+pages={456-460},
+keywords={},
+doi={10.1109/ROBIO49542.2019.8961438},
+ISSN={null},
+month={Dec},}

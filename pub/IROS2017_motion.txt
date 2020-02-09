@@ -1,0 +1,11 @@
+@INPROCEEDINGS{sun2017motion, 
+author={Yuxiang Sun and Max Q.-H. Meng}, 
+booktitle={{2017 IEEE/RSJ International Conference on Intelligent Robots and Systems}}, 
+title={{Motion Segmentation based on On-line Non-parametric Learning using RGB-D Data}}, 
+year={2017}, 
+volume={}, 
+number={}, 
+pages={},  
+doi={}, 
+ISSN={}, 
+month={September},} 

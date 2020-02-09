@@ -1,0 +1,11 @@
+@inproceedings{cheng2017a, 
+author={Jiyu Cheng and Yuxiang Sun and Max Q.-H. Meng}, 
+booktitle={{2017 18th International Conference on Advanced Robotics (ICAR)}}, 
+title={{A dense semantic mapping system based on CRF-RNN network}}, 
+year={2017}, 
+volume={}, 
+number={}, 
+pages={589-594},  
+doi={10.1109/ICAR.2017.8023671}, 
+ISSN={}, 
+month={July},}

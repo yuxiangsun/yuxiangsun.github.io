@@ -1,0 +1,11 @@
+@ARTICLE{wang2019autonomous,
+author={Chaoqun Wang and Wenzheng Chi and Yuxiang Sun and Max Q.-H. Meng}, 
+journal={{IEEE Transactions on Automation Science and Engineering}}, 
+title={{Autonomous Robotic Exploration by Incremental Road Map Construction}}, 
+year={2019}, 
+volume={16}, 
+number={4}, 
+pages={1720-1731}, 
+doi={10.1109/TASE.2019.2894748}, 
+ISSN={}, 
+month={Oct},}

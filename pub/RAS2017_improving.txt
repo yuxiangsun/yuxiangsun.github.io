@@ -1,0 +1,10 @@
+@article{sun2017improving,
+title = {{Improving RGB-D SLAM in dynamic environments: A motion removal approach}},
+journal = {{Robotics and Autonomous Systems}},
+volume = "89",
+pages = "110 - 122",
+year = "2017",
+issn = "0921-8890",
+doi = "https://doi.org/10.1016/j.robot.2016.11.012", 
+author = {Yuxiang Sun and Ming Liu and Max Q.-H. Meng}
+}

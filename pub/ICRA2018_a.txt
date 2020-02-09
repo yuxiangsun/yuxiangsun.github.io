@@ -1,0 +1,11 @@
+@inproceedings{yan2018a, 
+author={Tingfang Yan and Yuxiang Sun and Tingting Liu and Chi-Hong Cheung and Max Q.-H. Meng}, 
+booktitle={{2018 IEEE International Conference on Robotics and Automation (ICRA)}}, 
+title={{A Locomotion Recognition System Using Depth Images}}, 
+year={2018}, 
+volume={}, 
+number={}, 
+doi={10.1109/ICRA.2018.8460514}, 
+pages={6766-6772},  
+ISSN={2577-087X}, 
+month={May},}

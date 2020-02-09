@@ -1,0 +1,12 @@
+@article{cheng2019improving,
+author = {Jiyu Cheng and Yuxiang Sun and Max Q.-H. Meng},
+title = {Improving monocular visual SLAM in dynamic environments: an optical-flow-based approach},
+journal = {Advanced Robotics},
+volume = {33},
+number = {12},
+pages = {576-589},
+year  = {2019},
+publisher = {Taylor & Francis},
+doi = {10.1080/01691864.2019.1610060}
+}
+

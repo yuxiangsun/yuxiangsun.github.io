@@ -1,0 +1,12 @@
+@INPROCEEDINGS{huang2019metric, 
+author={Huaiyang Huang and Yuxiang Sun and Haoyang Ye and Ming Liu}, 
+booktitle={{2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}}, 
+title={{Metric Monocular Localization Using Signed Distance Fields}}, 
+year={2019}, 
+volume={}, 
+number={}, 
+pages={1195-1201}, 
+keywords={}, 
+doi={10.1109/IROS40897.2019.8968033}, 
+ISSN={2153-0858}, 
+month={Nov},}

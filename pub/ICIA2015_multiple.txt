@@ -1,0 +1,11 @@
+@inproceedings{sun2015multiple, 
+author={Yuxiang Sun and Max Q.-H. Meng}, 
+booktitle={{2015 IEEE International Conference on Information and Automation (ICIA)}}, 
+title={{Multiple moving objects tracking for automated visual surveillance}}, 
+year={2015}, 
+volume={}, 
+number={}, 
+pages={1617-1621},
+ISSN={},  
+doi={10.1109/ICInfA.2015.7279544}, 
+month={Aug},}

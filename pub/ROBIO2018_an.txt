@@ -1,0 +1,11 @@
+@INPROCEEDINGS{cheng2018an, 
+author={Jiyu Cheng and Yuxiang Sun and Wenzheng Chi and Chaoqun Wang and Hu Cheng and Max Q.-H. Meng}, 
+booktitle={{2018 IEEE International Conference on Robotics and Biomimetics (ROBIO)}}, 
+title={{An Accurate Localization Scheme for Mobile Robots Using Optical Flow in Dynamic Environments}}, 
+year={2018}, 
+volume={}, 
+number={}, 
+pages={723-728},  
+doi={10.1109/ROBIO.2018.8664893}, 
+ISSN={}, 
+month={Dec},}
