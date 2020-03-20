@@ -1,0 +1,11 @@
+@ARTICLE{wang2020pointtracknet, 
+author={Sukai Wang and Yuxiang Sun and Chengju Liu and Ming Liu}, 
+journal={{IEEE Robotics and Automation Letters}}, 
+title={{PointTrackNet: An End-to-End Network For 3-D Object Detection and Tracking From Point Clouds}}, 
+year={2020}, 
+volume={5}, 
+number={2}, 
+pages={3206-3212}, 
+doi={10.1109/LRA.2020.2974392}, 
+ISSN={2377-3774}, 
+month={April},}

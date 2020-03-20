@@ -1,0 +1,11 @@
+@ARTICLE{sun2020see, 
+author={Yuxiang Sun and Weixun Zuo and Ming Liu}, 
+journal={{IEEE Robotics and Automation Letters}}, 
+title={{See the Future: A Semantic Segmentation Network Predicting Ego-Vehicle Trajectory With a Single Monocular Camera}}, 
+year={2020}, 
+volume={5}, 
+number={2}, 
+pages={3066-3073}, 
+doi={10.1109/LRA.2020.2975414}, 
+ISSN={2377-3774}, 
+month={April},}
