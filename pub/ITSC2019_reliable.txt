@@ -1,5 +1,5 @@
 @INPROCEEDINGS{huang2019reliable, 
-author={H. {Huang} and Y. {Sun} and M. {Liu}}, 
+author={Huaiyang Huang and Yuxiang Sun and Ming Liu},  
 booktitle={{2019 IEEE Intelligent Transportation Systems Conference (ITSC)}}, 
 title={{Reliable Monocular Ego-Motion Estimation System in Rainy Urban Environments}}, 
 year={2019}, 

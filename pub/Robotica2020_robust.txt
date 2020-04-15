@@ -1,6 +1,6 @@
 @article{cheng2020robust, 
 title={{Robust Semantic Mapping in Challenging Environments}}, 
-author={Cheng, Jiyu and Sun, Yuxiang and Meng, Max Q.-H.}, 
+author={Jiyu Cheng and Yuxiang Sun and Max Q.-H. Meng}, 
 volume={38}, 
 DOI={10.1017/S0263574719000584}, 
 number={2}, 

@@ -1,5 +1,5 @@
 @INPROCEEDINGS{ozgunalp2019robust,
-author={U. {Ozgunalp} and R. {Fan} and S. {Cheng} and Y. {Sun} and W. {Zuo} and Y. {Zhu} and B. {Xue} and L. {Zheng} and Q. {Liang} and M. {Liu}},
+author={Umar Ozgunalp and Rui Fan and Shanshan Cheng and Yuxiang Sun and Weixun Zuo and Yilong Zhu and Bohuan Xue and Linwei Zheng and Qing Liang and Ming Liu},
 booktitle={{2019 IEEE International Conference on Robotics and Biomimetics (ROBIO)}},
 title={{Robust Lane Marking Detection Algorithm Using Drivable Area Segmentation and Extended SLT}},
 year={2019},

@@ -1,5 +1,5 @@
 @ARTICLE{cai2020high, 
-author={P. {Cai} and X. {Mei} and L. {Tai} and Y. {Sun} and M. {Liu}}, 
+author={Peide Cai and Xiaodong Mei and Lei Tai and Yuxiang Sun and Ming Liu},    
 journal={{IEEE Robotics and Automation Letters}}, 
 title={{High-Speed Autonomous Drifting With Deep Reinforcement Learning}}, 
 year={2020}, 

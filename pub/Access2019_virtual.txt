@@ -1,5 +1,5 @@
 @ARTICLE{chen2019virtual,
-author={Q. {Chen} and Y. {Sun} and M. {Zhao} and M. {Liu}}, 
+author={Qi Chen and Yuxiang Sun and Min Zhao and Ming Liu},  
 journal={IEEE Access}, 
 title={A Virtual Structure Formation Guidance Strategy for Multi-Parafoil Systems}, 
 year={2019}, 
