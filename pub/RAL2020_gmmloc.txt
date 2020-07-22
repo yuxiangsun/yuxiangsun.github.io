@@ -1,0 +1,8 @@
+@ARTICLE{huang2020gmmloc,
+  author={Huaiyang Huang and Haoyang Ye and Yuxiang Sun and Ming Liu},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={GMMLoc: Structure Consistent Visual Localization With Gaussian Mixture Models}, 
+  year={2020},
+  volume={5},
+  number={4},
+  pages={5043-5050},}
