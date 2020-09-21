@@ -1,0 +1,8 @@
+@ARTICLE{chen2020consensus,
+  author={Qi Chen and Yuxiang Sun and Min Zhao and Ming Liu},
+  journal={IEEE Transactions on Automation Science and Engineering}, 
+  title={Consensus-Based Cooperative Formation Guidance Strategy for Multiparafoil Airdrop Systems}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={1-10},}

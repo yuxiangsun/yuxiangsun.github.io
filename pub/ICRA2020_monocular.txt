@@ -1,0 +1,8 @@
+@INPROCEEDINGS{huang2020monocular,
+  author={Huaiyang Huang and Haoyang Ye and Yuxiang Sun and Ming Liu},
+  booktitle={2020 IEEE International Conference on Robotics and Automation (ICRA)}, 
+  title={Monocular Visual Odometry using Learned Repeatability and Description}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={8913-8919},}
