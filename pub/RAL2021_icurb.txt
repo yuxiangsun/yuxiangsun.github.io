@@ -1,0 +1,9 @@
+@ARTICLE{xu2021icurb,
+  author={Zhenhua Xu and Yuxiang Sun and Ming Liu},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={iCurb: Imitation Learning-Based Detection of Road Curbs Using Aerial Images for Autonomous Driving}, 
+  year={2021},
+  volume={6},
+  number={2},
+  pages={1097-1104},
+  doi={10.1109/LRA.2021.3056344}}

@@ -1,0 +1,9 @@
+@ARTICLE{liu2021the,
+author={Tianyu Liu and Qinghai Liao and Lu Gan and Fulong Ma and Jie Cheng and Xupeng Xie and Zhe Wang and Yingbing Chen and Yilong Zhu and Shuyang Zhang and Zhengyong Chen and Yang Liu and Meng Xie and Yang Yu and Zitong Guo and Guang Li and Peidong Yuan and Dong Han and Yuying Chen and Haoyang Ye and Jianhao Jiao and Peng Yun and Zhenhua Xu and Hengli Wang and Huaiyang Huang and Sukai Wang and Peide Cai and Yuxiang Sun and Yandong Liu and Lujia Wang and Ming Liu},
+journal={IEEE Robotics and Automation Magazine}, 
+title={The Role of the Hercules Autonomous Vehicle During the COVID-19 Pandemic: An Autonomous Logistic Vehicle for Contactless Goods Transportation}, 
+year={2021},
+volume={},
+number={},
+pages={0-0},
+doi={10.1109/MRA.2020.3045040}}
