@@ -1,10 +1,9 @@
 @article{sun2018motion,
-title = {{Motion removal for reliable RGB-D SLAM in dynamic environments}},
-journal = {{Robotics and Autonomous Systems}},
-volume = "108",
-pages = "115 - 128",
-year = "2018",
-issn = "0921-8890",
-doi = {https://doi.org/10.1016/j.robot.2018.07.002}, 
-author = {Yuxiang Sun and Ming Liu and Max Q.-H. Meng}
-}
+title = {Motion removal for reliable RGB-D SLAM in dynamic environments},
+journal = {Robotics and Autonomous Systems},
+volume = {108},
+pages = {115-128},
+year = {2018},
+issn = {0921-8890},
+doi = {https://doi.org/10.1016/j.robot.2018.07.002},
+author = {Yuxiang Sun and Ming Liu and Max Q.-H. Meng}}

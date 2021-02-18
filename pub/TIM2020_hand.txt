@@ -1,8 +1,9 @@
 @ARTICLE{wu2020hand, 
-author={Jin Wu and Yuxiang Sun and Miaomiao Wang and Ming Liu}, 
-  journal={{IEEE Transactions on Instrumentation and Measurement}}, 
-  title={{Hand-Eye Calibration: 4-D Procrustes Analysis Approach}}, 
+  author={Jin Wu and Yuxiang Sun and Miaomiao Wang and Ming Liu}, 
+  journal={IEEE Transactions on Instrumentation and Measurement}, 
+  title={Hand-Eye Calibration: 4-D Procrustes Analysis Approach}, 
   year={2020},
   volume={69},
   number={6},
-  pages={2966-2981},}
+  pages={2966-2981},
+  doi={10.1109/TIM.2019.2930710}}

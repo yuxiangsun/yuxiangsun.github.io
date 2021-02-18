@@ -1,8 +1,9 @@
 @ARTICLE{cai2020probabilistic,
   author={Peide Cai and Sukai Wang and Yuxiang Sun and Ming Liu},
   journal={IEEE Robotics and Automation Letters}, 
-  title={{Probabilistic End-to-End Vehicle Navigation in Complex Dynamic Environments With Multimodal Sensor Fusion}}, 
+  title={Probabilistic End-to-End Vehicle Navigation in Complex Dynamic Environments With Multimodal Sensor Fusion}, 
   year={2020},
   volume={5},
   number={3},
-  pages={4218-4224},}
+  pages={4218-4224},
+  doi={10.1109/LRA.2020.2994027}}

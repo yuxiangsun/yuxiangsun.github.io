@@ -1,8 +1,9 @@
-@ARTICLE{9108585,
+@ARTICLE{sun2020fuseseg,
   author={Y. {Sun} and W. {Zuo} and P. {Yun} and H. {Wang} and M. {Liu}},
   journal={IEEE Transactions on Automation Science and Engineering}, 
   title={FuseSeg: Semantic Segmentation of Urban Scenes Based on RGB and Thermal Data Fusion}, 
   year={2020},
   volume={},
   number={},
-  pages={1-12},}
+  pages={1-12},
+  doi={10.1109/TASE.2020.2993143}}

@@ -1,11 +1,10 @@
 @article{cheng2020robust, 
-title={{Robust Semantic Mapping in Challenging Environments}}, 
-author={Jiyu Cheng and Yuxiang Sun and Max Q.-H. Meng}, 
+title={Robust Semantic Mapping in Challenging Environments}, 
 volume={38}, 
 DOI={10.1017/S0263574719000584}, 
 number={2}, 
-journal={{Robotica}}, 
+journal={Robotica}, 
 publisher={Cambridge University Press}, 
-year={2020},
-pages={256–270}
-}
+author={Cheng, Jiyu and Sun, Yuxiang and Meng, Max Q.-H.}, 
+year={2020}, 
+pages={256–270}}
