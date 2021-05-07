@@ -8,8 +8,9 @@ table#tlayout {
 
 body {
 	background: white;
-	/*font-family: Georgia, serif;*/
-	font-family: Arial, sans-serif;
+	/*font-family: Verdana, Georgia, serif;*/
+	font-family: Helvetica, Arial, Microsoft YaHei, sans-serif;
+    #font-family: Verdana, Geneva, sans-serif;
 	padding-bottom: 8px;
 	margin: 0;
 }
